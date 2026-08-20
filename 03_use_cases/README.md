@@ -1,6 +1,6 @@
 # Use cases
 
-Maps to the **Use cases** section of the [cookbook website](https://dev.meta.ai/docs/getting-started/cookbook#use-cases).
+Maps to the **Use cases** section of the [cookbook website](https://dev.meta.ai/docs/cookbook#use-cases).
 End-to-end patterns: multimodal perception, orchestration, and full applications.
 
 ## Recipes

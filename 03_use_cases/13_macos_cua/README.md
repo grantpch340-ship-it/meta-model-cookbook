@@ -2,7 +2,7 @@
 
 |  |  |
 |---|---|
-| **Section** | [Use cases](https://dev.meta.ai/docs/getting-started/cookbook#use-cases) |
+| **Section** | [Use cases](https://dev.meta.ai/docs/cookbook#use-cases) |
 | **Time to complete** | ~15 min |
 | **Model** | `muse-spark-1.1` |
 | **Harness** | `metacua` — a native macOS computer-use CLI (Swift and Python implementations) |

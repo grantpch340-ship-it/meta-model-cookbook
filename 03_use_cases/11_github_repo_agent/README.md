@@ -2,7 +2,7 @@
 
 |  |  |
 |---|---|
-| **Section** | [Use cases](https://dev.meta.ai/docs/getting-started/cookbook#use-cases) |
+| **Section** | [Use cases](https://dev.meta.ai/docs/cookbook#use-cases) |
 | **Time to complete** | ~15 min (read-only PR review, Phase 1) |
 | **Model** | `muse-spark-1.1` |
 | **Harness** | OpenCode + GitHub Actions |

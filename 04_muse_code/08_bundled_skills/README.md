@@ -2,7 +2,7 @@
 
 |  |  |
 |---|---|
-| **Section** | [Muse Code](https://dev.meta.ai/docs/getting-started/cookbook#agent-patterns) |
+| **Section** | [Muse Code](https://dev.meta.ai/docs/cookbook#building-with-muse-code) |
 | **Time to complete** | ~25 min |
 | **Model** | `muse-spark` |
 | **Harness** | Muse Code (the `muse` CLI) |
