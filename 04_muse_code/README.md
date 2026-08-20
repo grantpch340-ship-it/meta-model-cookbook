@@ -1,6 +1,6 @@
 # Muse Code
 
-Recipes for building with [Muse Code](https://dev.meta.ai/docs/getting-started/cookbook#agent-patterns) when you need sessions you can audit, safety that fails closed, and an agent team you can steer. Each recipe walks a task end to end and finishes with a proof point you can replay.
+Recipes for building with [Muse Code](https://dev.meta.ai/docs/cookbook#building-with-muse-code) when you need sessions you can audit, safety that fails closed, and an agent team you can steer. Each recipe walks a task end to end and finishes with a proof point you can replay.
 
 ## Recipes
 

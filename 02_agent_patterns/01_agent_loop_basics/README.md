@@ -2,7 +2,7 @@
 
 |  |  |
 |---|---|
-| **Section** | [Agent patterns](https://dev.meta.ai/docs/getting-started/cookbook#agent-patterns) |
+| **Section** | [Agent patterns](https://dev.meta.ai/docs/cookbook#agent-patterns) |
 | **Time to complete** | ~15 min |
 | **Model** | `muse-spark-1.1` |
 | **Harness** | OpenCode |

@@ -1,6 +1,6 @@
 # Agent patterns
 
-Maps to the **Agent patterns** section of the [Cookbook page](https://dev.meta.ai/docs/getting-started/cookbook#agent-patterns).
+Maps to the **Agent patterns** section of the [Cookbook page](https://dev.meta.ai/docs/cookbook#agent-patterns).
 Recipes here build the loops that turn a model into an agent: planning, parallel
 work, and self-correction.
 
